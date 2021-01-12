@@ -1,0 +1,212 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1767 1273" width="1767" height="1273">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 0L1767 0L1767 1273L0 1273Z" />
+		</clipPath>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="67.406" y1="81.117" x2="342" y2="406">
+			<stop offset="0" stop-color="#ff6cab"  />
+			<stop offset="1" stop-color="#7366ff"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="414.641" y1="76" x2="687" y2="406">
+			<stop offset="0" stop-color="#b65eba"  />
+			<stop offset="1" stop-color="#2e8de1"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="757.406" y1="81.117" x2="1026.484" y2="398.052">
+			<stop offset="0" stop-color="#64e8de"  />
+			<stop offset="1" stop-color="#8a64eb"  />
+		</linearGradient>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="1102.406" y1="81.117" x2="1377" y2="406">
+			<stop offset="0" stop-color="#7bf2e9"  />
+			<stop offset="1" stop-color="#b65eba"  />
+		</linearGradient>
+		<linearGradient id="grd5" gradientUnits="userSpaceOnUse"  x1="1447.406" y1="81.117" x2="1722" y2="406">
+			<stop offset="0" stop-color="#ff9482"  />
+			<stop offset="1" stop-color="#7d77ff"  />
+		</linearGradient>
+		<linearGradient id="grd6" gradientUnits="userSpaceOnUse"  x1="67.406" y1="477.117" x2="342" y2="802">
+			<stop offset="0" stop-color="#ffcf1b"  />
+			<stop offset="1" stop-color="#ff881b"  />
+		</linearGradient>
+		<linearGradient id="grd7" gradientUnits="userSpaceOnUse"  x1="412.406" y1="477.117" x2="687" y2="795.036">
+			<stop offset="0" stop-color="#ffa62e"  />
+			<stop offset="1" stop-color="#ea4d2c"  />
+		</linearGradient>
+		<linearGradient id="grd8" gradientUnits="userSpaceOnUse"  x1="757.406" y1="477.117" x2="1032" y2="792.729">
+			<stop offset="0" stop-color="#00ffed"  />
+			<stop offset="1" stop-color="#00b8ba"  />
+		</linearGradient>
+		<linearGradient id="grd9" gradientUnits="userSpaceOnUse"  x1="1102.406" y1="477.117" x2="1377" y2="802">
+			<stop offset="0" stop-color="#6ee2f5"  />
+			<stop offset="1" stop-color="#6454f0"  />
+		</linearGradient>
+		<linearGradient id="grd10" gradientUnits="userSpaceOnUse"  x1="1447.406" y1="477.117" x2="1722" y2="802">
+			<stop offset="0" stop-color="#3499ff"  />
+			<stop offset="1" stop-color="#3a3985"  />
+		</linearGradient>
+		<linearGradient id="grd11" gradientUnits="userSpaceOnUse"  x1="67.406" y1="873.117" x2="335.359" y2="1192.073">
+			<stop offset="0" stop-color="#ff9897"  />
+			<stop offset="1" stop-color="#f650a0"  />
+		</linearGradient>
+		<linearGradient id="grd12" gradientUnits="userSpaceOnUse"  x1="412.406" y1="873.117" x2="687" y2="1198">
+			<stop offset="0" stop-color="#ffcda5"  />
+			<stop offset="1" stop-color="#ee4d5f"  />
+		</linearGradient>
+		<linearGradient id="grd13" gradientUnits="userSpaceOnUse"  x1="757.406" y1="873.117" x2="1032" y2="1198">
+			<stop offset="0" stop-color="#ff5b94"  />
+			<stop offset="1" stop-color="#8441a4"  />
+		</linearGradient>
+		<linearGradient id="grd14" gradientUnits="userSpaceOnUse"  x1="1102.406" y1="873.117" x2="1377" y2="1191.776">
+			<stop offset="0" stop-color="#f869d5"  />
+			<stop offset="1" stop-color="#5650de"  />
+		</linearGradient>
+		<linearGradient id="grd15" gradientUnits="userSpaceOnUse"  x1="1447.406" y1="873.117" x2="1722" y2="1192.328">
+			<stop offset="0" stop-color="#f00b51"  />
+			<stop offset="1" stop-color="#730062"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+		.shp1 { fill: url(#grd1) } 
+		.txt2 { font-size: 20px;fill: #ffffff;font-weight: bold;font-family: "Poppins" } 
+		.txt3 { font-size: 20px;fill: #ffffff;font-weight: bold;font-family: "Poppins";text-anchor: end } 
+		.shp4 { fill: url(#grd2) } 
+		.shp5 { fill: url(#grd3) } 
+		.shp6 { fill: url(#grd4) } 
+		.shp7 { fill: url(#grd5) } 
+		.shp8 { fill: url(#grd6) } 
+		.shp9 { fill: url(#grd7) } 
+		.shp10 { fill: url(#grd8) } 
+		.shp11 { fill: url(#grd9) } 
+		.shp12 { fill: url(#grd10) } 
+		.shp13 { fill: url(#grd11) } 
+		.shp14 { fill: url(#grd12) } 
+		.shp15 { fill: url(#grd13) } 
+		.shp16 { fill: url(#grd14) } 
+		.shp17 { fill: url(#grd15) } 
+	</style>
+	<g id="Gradient Color Style" clip-path="url(#cp1)">
+		<g id="Groupe 31">
+			<path id="Rectangle 1" class="shp0" d="M73 76L332 76C337.53 76 342 80.47 342 86L342 396C342 401.53 337.53 406 332 406L73 406C67.47 406 63 401.53 63 396L63 86C63 80.47 67.47 76 73 76Z" />
+			<path id="Rectangle 2" class="shp1" d="M73 76L332 76C337.53 76 342 80.47 342 86L342 396C342 401.53 337.53 406 332 406L73 406C67.47 406 63 401.53 63 396L63 86C63 80.47 67.47 76 73 76Z" />
+			<text id="FF6CAB" style="transform: matrix(1,0,0,1,83,117)" >
+				<tspan x="0" y="0" class="txt2">FF6CAB</tspan>
+			</text>
+			<text id="7366FF" style="transform: matrix(1,0,0,1,322,379)" >
+				<tspan x="0" y="0" class="txt3">7366FF</tspan>
+			</text>
+			<path id="Rectangle 1" class="shp0" d="M418 76L677 76C682.53 76 687 80.47 687 86L687 396C687 401.53 682.53 406 677 406L418 406C412.47 406 408 401.53 408 396L408 86C408 80.47 412.47 76 418 76Z" />
+			<path id="Rectangle 2" class="shp4" d="M418 76L677 76C682.53 76 687 80.47 687 86L687 396C687 401.53 682.53 406 677 406L418 406C412.47 406 408 401.53 408 396L408 86C408 80.47 412.47 76 418 76Z" />
+			<text id="B65EBA" style="transform: matrix(1,0,0,1,428,117)" >
+				<tspan x="0" y="0" class="txt2">B65EBA</tspan>
+			</text>
+			<text id="2E8DE1" style="transform: matrix(1,0,0,1,665,379)" >
+				<tspan x="0" y="0" class="txt3">2E8DE1</tspan>
+			</text>
+			<path id="Rectangle 1" class="shp0" d="M763 76L1022 76C1027.53 76 1032 80.47 1032 86L1032 396C1032 401.53 1027.53 406 1022 406L763 406C757.47 406 753 401.53 753 396L753 86C753 80.47 757.47 76 763 76Z" />
+			<path id="Rectangle 2" class="shp5" d="M763 76L1022 76C1027.53 76 1032 80.47 1032 86L1032 396C1032 401.53 1027.53 406 1022 406L763 406C757.47 406 753 401.53 753 396L753 86C753 80.47 757.47 76 763 76Z" />
+			<text id="64E8DE" style="transform: matrix(1,0,0,1,773,117)" >
+				<tspan x="0" y="0" class="txt2">64E8DE</tspan>
+			</text>
+			<text id="8A64EB" style="transform: matrix(1,0,0,1,1012,379)" >
+				<tspan x="0" y="0" class="txt3">8A64EB</tspan>
+			</text>
+			<path id="Rectangle 1" class="shp0" d="M1108 76L1367 76C1372.53 76 1377 80.47 1377 86L1377 396C1377 401.53 1372.53 406 1367 406L1108 406C1102.47 406 1098 401.53 1098 396L1098 86C1098 80.47 1102.47 76 1108 76Z" />
+			<path id="Rectangle 2" class="shp6" d="M1108 76L1367 76C1372.53 76 1377 80.47 1377 86L1377 396C1377 401.53 1372.53 406 1367 406L1108 406C1102.47 406 1098 401.53 1098 396L1098 86C1098 80.47 1102.47 76 1108 76Z" />
+			<text id="7BF2E9" style="transform: matrix(1,0,0,1,1118,117)" >
+				<tspan x="0" y="0" class="txt2">7BF2E9</tspan>
+			</text>
+			<text id="B65EBA" style="transform: matrix(1,0,0,1,1357,379)" >
+				<tspan x="0" y="0" class="txt3">B65EBA</tspan>
+			</text>
+			<path id="Rectangle 1" class="shp0" d="M1453 76L1712 76C1717.53 76 1722 80.47 1722 86L1722 396C1722 401.53 1717.53 406 1712 406L1453 406C1447.47 406 1443 401.53 1443 396L1443 86C1443 80.47 1447.47 76 1453 76Z" />
+			<path id="Rectangle 2" class="shp7" d="M1453 76L1712 76C1717.53 76 1722 80.47 1722 86L1722 396C1722 401.53 1717.53 406 1712 406L1453 406C1447.47 406 1443 401.53 1443 396L1443 86C1443 80.47 1447.47 76 1453 76Z" />
+			<text id="FF9482" style="transform: matrix(1,0,0,1,1463,117)" >
+				<tspan x="0" y="0" class="txt2">FF9482</tspan>
+			</text>
+			<text id="7D77FF" style="transform: matrix(1,0,0,1,1702,379)" >
+				<tspan x="0" y="0" class="txt3">7D77FF</tspan>
+			</text>
+			<path id="Rectangle 1" class="shp0" d="M73 472L332 472C337.53 472 342 476.47 342 482L342 792C342 797.53 337.53 802 332 802L73 802C67.47 802 63 797.53 63 792L63 482C63 476.47 67.47 472 73 472Z" />
+			<path id="Rectangle 2" class="shp8" d="M73 472L332 472C337.53 472 342 476.47 342 482L342 792C342 797.53 337.53 802 332 802L73 802C67.47 802 63 797.53 63 792L63 482C63 476.47 67.47 472 73 472Z" />
+			<text id="FFCF1B" style="transform: matrix(1,0,0,1,83,513)" >
+				<tspan x="0" y="0" class="txt2">FFCF1B</tspan>
+			</text>
+			<text id="FF881B" style="transform: matrix(1,0,0,1,322,775)" >
+				<tspan x="0" y="0" class="txt3">FF881B</tspan>
+			</text>
+			<path id="Rectangle 1" class="shp0" d="M418 472L677 472C682.53 472 687 476.47 687 482L687 792C687 797.53 682.53 802 677 802L418 802C412.47 802 408 797.53 408 792L408 482C408 476.47 412.47 472 418 472Z" />
+			<path id="Rectangle 2" class="shp9" d="M418 472L677 472C682.53 472 687 476.47 687 482L687 792C687 797.53 682.53 802 677 802L418 802C412.47 802 408 797.53 408 792L408 482C408 476.47 412.47 472 418 472Z" />
+			<text id="FFA62E" style="transform: matrix(1,0,0,1,428,513)" >
+				<tspan x="0" y="0" class="txt2">FFA62E</tspan>
+			</text>
+			<text id="EA4D2C" style="transform: matrix(1,0,0,1,667,775)" >
+				<tspan x="0" y="0" class="txt3">EA4D2C</tspan>
+			</text>
+			<path id="Rectangle 1" class="shp0" d="M763 472L1022 472C1027.53 472 1032 476.47 1032 482L1032 792C1032 797.53 1027.53 802 1022 802L763 802C757.47 802 753 797.53 753 792L753 482C753 476.47 757.47 472 763 472Z" />
+			<path id="Rectangle 2" class="shp10" d="M763 472L1022 472C1027.53 472 1032 476.47 1032 482L1032 792C1032 797.53 1027.53 802 1022 802L763 802C757.47 802 753 797.53 753 792L753 482C753 476.47 757.47 472 763 472Z" />
+			<text id="00FFED" style="transform: matrix(1,0,0,1,773,513)" >
+				<tspan x="0" y="0" class="txt2">00FFED</tspan>
+			</text>
+			<text id="00B8BA" style="transform: matrix(1,0,0,1,1012,775)" >
+				<tspan x="0" y="0" class="txt3">00B8BA</tspan>
+			</text>
+			<path id="Rectangle 1" class="shp0" d="M1108 472L1367 472C1372.53 472 1377 476.47 1377 482L1377 792C1377 797.53 1372.53 802 1367 802L1108 802C1102.47 802 1098 797.53 1098 792L1098 482C1098 476.47 1102.47 472 1108 472Z" />
+			<path id="Rectangle 2" class="shp11" d="M1108 472L1367 472C1372.53 472 1377 476.47 1377 482L1377 792C1377 797.53 1372.53 802 1367 802L1108 802C1102.47 802 1098 797.53 1098 792L1098 482C1098 476.47 1102.47 472 1108 472Z" />
+			<text id="6EE2F5" style="transform: matrix(1,0,0,1,1118,513)" >
+				<tspan x="0" y="0" class="txt2">6EE2F5</tspan>
+			</text>
+			<text id="6454F0" style="transform: matrix(1,0,0,1,1357,775)" >
+				<tspan x="0" y="0" class="txt3">6454F0</tspan>
+			</text>
+			<path id="Rectangle 1" class="shp0" d="M1453 472L1712 472C1717.53 472 1722 476.47 1722 482L1722 792C1722 797.53 1717.53 802 1712 802L1453 802C1447.47 802 1443 797.53 1443 792L1443 482C1443 476.47 1447.47 472 1453 472Z" />
+			<path id="Rectangle 2" class="shp12" d="M1453 472L1712 472C1717.53 472 1722 476.47 1722 482L1722 792C1722 797.53 1717.53 802 1712 802L1453 802C1447.47 802 1443 797.53 1443 792L1443 482C1443 476.47 1447.47 472 1453 472Z" />
+			<text id="3499FF" style="transform: matrix(1,0,0,1,1463,513)" >
+				<tspan x="0" y="0" class="txt2">3499FF</tspan>
+			</text>
+			<text id="3A3985" style="transform: matrix(1,0,0,1,1702,775)" >
+				<tspan x="0" y="0" class="txt3">3A3985</tspan>
+			</text>
+			<path id="Rectangle 1" class="shp0" d="M73 868L332 868C337.53 868 342 872.47 342 878L342 1188C342 1193.53 337.53 1198 332 1198L73 1198C67.47 1198 63 1193.53 63 1188L63 878C63 872.47 67.47 868 73 868Z" />
+			<path id="Rectangle 2" class="shp13" d="M73 868L332 868C337.53 868 342 872.47 342 878L342 1188C342 1193.53 337.53 1198 332 1198L73 1198C67.47 1198 63 1193.53 63 1188L63 878C63 872.47 67.47 868 73 868Z" />
+			<text id="FF9897" style="transform: matrix(1,0,0,1,83,909)" >
+				<tspan x="0" y="0" class="txt2">FF9897</tspan>
+			</text>
+			<text id="F650A0" style="transform: matrix(1,0,0,1,322,1171)" >
+				<tspan x="0" y="0" class="txt3">F650A0</tspan>
+			</text>
+			<path id="Rectangle 1" class="shp0" d="M418 868L677 868C682.53 868 687 872.47 687 878L687 1188C687 1193.53 682.53 1198 677 1198L418 1198C412.47 1198 408 1193.53 408 1188L408 878C408 872.47 412.47 868 418 868Z" />
+			<path id="Rectangle 2" class="shp14" d="M418 868L677 868C682.53 868 687 872.47 687 878L687 1188C687 1193.53 682.53 1198 677 1198L418 1198C412.47 1198 408 1193.53 408 1188L408 878C408 872.47 412.47 868 418 868Z" />
+			<text id="FFCDA5" style="transform: matrix(1,0,0,1,428,909)" >
+				<tspan x="0" y="0" class="txt2">FFCDA5</tspan>
+			</text>
+			<text id="EE4D5F" style="transform: matrix(1,0,0,1,667,1171)" >
+				<tspan x="0" y="0" class="txt3">EE4D5F</tspan>
+			</text>
+			<path id="Rectangle 1" class="shp0" d="M763 868L1022 868C1027.53 868 1032 872.47 1032 878L1032 1188C1032 1193.53 1027.53 1198 1022 1198L763 1198C757.47 1198 753 1193.53 753 1188L753 878C753 872.47 757.47 868 763 868Z" />
+			<path id="Rectangle 2" class="shp15" d="M763 868L1022 868C1027.53 868 1032 872.47 1032 878L1032 1188C1032 1193.53 1027.53 1198 1022 1198L763 1198C757.47 1198 753 1193.53 753 1188L753 878C753 872.47 757.47 868 763 868Z" />
+			<text id="FF5B94" style="transform: matrix(1,0,0,1,773,909)" >
+				<tspan x="0" y="0" class="txt2">FF5B94</tspan>
+			</text>
+			<text id="8441A4" style="transform: matrix(1,0,0,1,1012,1171)" >
+				<tspan x="0" y="0" class="txt3">8441A4</tspan>
+			</text>
+			<path id="Rectangle 1" class="shp0" d="M1108 868L1367 868C1372.53 868 1377 872.47 1377 878L1377 1188C1377 1193.53 1372.53 1198 1367 1198L1108 1198C1102.47 1198 1098 1193.53 1098 1188L1098 878C1098 872.47 1102.47 868 1108 868Z" />
+			<path id="Rectangle 2" class="shp16" d="M1108 868L1367 868C1372.53 868 1377 872.47 1377 878L1377 1188C1377 1193.53 1372.53 1198 1367 1198L1108 1198C1102.47 1198 1098 1193.53 1098 1188L1098 878C1098 872.47 1102.47 868 1108 868Z" />
+			<text id="F869D5" style="transform: matrix(1,0,0,1,1118,909)" >
+				<tspan x="0" y="0" class="txt2">F869D5</tspan>
+			</text>
+			<text id="5650DE" style="transform: matrix(1,0,0,1,1357,1171)" >
+				<tspan x="0" y="0" class="txt3">5650DE</tspan>
+			</text>
+			<path id="Rectangle 1" class="shp0" d="M1453 868L1712 868C1717.53 868 1722 872.47 1722 878L1722 1188C1722 1193.53 1717.53 1198 1712 1198L1453 1198C1447.47 1198 1443 1193.53 1443 1188L1443 878C1443 872.47 1447.47 868 1453 868Z" />
+			<path id="Rectangle 2" class="shp17" d="M1453 868L1712 868C1717.53 868 1722 872.47 1722 878L1722 1188C1722 1193.53 1717.53 1198 1712 1198L1453 1198C1447.47 1198 1443 1193.53 1443 1188L1443 878C1443 872.47 1447.47 868 1453 868Z" />
+			<text id="F00B51" style="transform: matrix(1,0,0,1,1463,909)" >
+				<tspan x="0" y="0" class="txt2">F00B51</tspan>
+			</text>
+			<text id="7366FF" style="transform: matrix(1,0,0,1,1702,1171)" >
+				<tspan x="0" y="0" class="txt3">7366FF</tspan>
+			</text>
+		</g>
+	</g>
+</svg>
